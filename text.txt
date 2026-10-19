@@ -1,0 +1,5 @@
+--> to clear sessions
+      ./clear_sessions
+  # If admin still can't log in, run:
+      ./clear_sessions
+  # Then try logging in again
